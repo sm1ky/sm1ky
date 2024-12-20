@@ -98,6 +98,8 @@
 
 <p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sm1ky&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
+<a href="https://wakatime.com/@sm1ky"><img src="https://wakatime.com/badge/user/725ebd8f-613e-47b5-93b0-785579013524.svg" alt="Total time coded since Aug 13 2021" /></a>
+
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
